@@ -76,3 +76,47 @@ header {
 }
 
 /* Header End */
+
+/* Main Start */
+main {
+  margin: 0 4rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 40px;
+}
+
+main .img {
+  width: 40%;
+  margin: 10px;
+}
+/* Main End */
+
+/* Section Three Start */
+.section-three {
+  margin-left: 5rem;
+}
+
+.section-three .primary-headings {
+  margin-bottom: 10rem;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-three .item h1 {
+  font-size: 2rem;
+  color: rgb(53, 53, 53);
+}
+
+.section-three img {
+  width: 400px;
+  height: 400px;
+  margin: 50px;
+}
+
+/* Section Three End */
